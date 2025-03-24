@@ -136,7 +136,6 @@ roleRef:
   name: edit # 或者你可以定义一个自定义的Role，只包含所需的最小权限
   apiGroup: rbac.authorization.k8s.io
   
- 
 ```
 
 
